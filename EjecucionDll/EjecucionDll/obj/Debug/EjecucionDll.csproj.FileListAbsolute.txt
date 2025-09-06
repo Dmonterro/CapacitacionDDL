@@ -1,0 +1,17 @@
+C:\Users\temporal\source\repos\EjecucionDll\EjecucionDll\bin\Debug\EjecucionDll.exe.config
+C:\Users\temporal\source\repos\EjecucionDll\EjecucionDll\bin\Debug\EjecucionDll.exe
+C:\Users\temporal\source\repos\EjecucionDll\EjecucionDll\bin\Debug\EjecucionDll.pdb
+C:\Users\temporal\source\repos\EjecucionDll\EjecucionDll\bin\Debug\CapaV.dll
+C:\Users\temporal\source\repos\EjecucionDll\EjecucionDll\bin\Debug\Capacontrolador.dll
+C:\Users\temporal\source\repos\EjecucionDll\EjecucionDll\bin\Debug\CapaModelo.dll
+C:\Users\temporal\source\repos\EjecucionDll\EjecucionDll\bin\Debug\CapaV.pdb
+C:\Users\temporal\source\repos\EjecucionDll\EjecucionDll\bin\Debug\Capacontrolador.pdb
+C:\Users\temporal\source\repos\EjecucionDll\EjecucionDll\bin\Debug\CapaModelo.pdb
+C:\Users\temporal\source\repos\EjecucionDll\EjecucionDll\obj\Debug\EjecucionDll.csproj.AssemblyReference.cache
+C:\Users\temporal\source\repos\EjecucionDll\EjecucionDll\obj\Debug\EjecucionDll.Form1.resources
+C:\Users\temporal\source\repos\EjecucionDll\EjecucionDll\obj\Debug\EjecucionDll.Properties.Resources.resources
+C:\Users\temporal\source\repos\EjecucionDll\EjecucionDll\obj\Debug\EjecucionDll.csproj.GenerateResource.cache
+C:\Users\temporal\source\repos\EjecucionDll\EjecucionDll\obj\Debug\EjecucionDll.csproj.CoreCompileInputs.cache
+C:\Users\temporal\source\repos\EjecucionDll\EjecucionDll\obj\Debug\EjecucionDll.csproj.CopyComplete
+C:\Users\temporal\source\repos\EjecucionDll\EjecucionDll\obj\Debug\EjecucionDll.exe
+C:\Users\temporal\source\repos\EjecucionDll\EjecucionDll\obj\Debug\EjecucionDll.pdb
